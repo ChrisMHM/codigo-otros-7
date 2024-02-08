@@ -1,4 +1,6 @@
-
+Nombre: Christian Hernández
+Evaluador: Daniel Malvaez
+Calificación: 10
 
 import java.util.HashMap;
 import java.util.Scanner;
