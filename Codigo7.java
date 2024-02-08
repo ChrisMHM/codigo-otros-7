@@ -41,5 +41,7 @@ public class Codigo7 {
                 System.out.println("Gracias por enseñarme nuevas capitales");
             }
         }
+
+        scanner.close();
     }
 }
